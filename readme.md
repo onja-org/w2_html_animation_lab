@@ -84,7 +84,7 @@ Here is an example of what it looks like in action:
 
 
 
-For the content inside style, it is javascript. It handles the movement and the form submitting. This is how a simple form looks like
+For the content inside `script`, it is JavaScript. It handles the movement and the form submitting. This is how a simple form looks like
 
     <form>
       <div>
@@ -115,36 +115,6 @@ We can finally start working on the form. We will put this into the `<div id="bo
     </form>
 ```
 
-Each input is with a label to help people unnderstand what the input is for. Keep the classes same as in the text, because JavaScript uses the class names to make the animation works.
+Each input is with a label to help people understand what the input is for. Keep the classes same as in the text, because JavaScript uses the class names to make the animation works.
 
 Now, go ahead and fill out the form. When you click submit, it should make a lot of bouncing objects with the name, color and text specified in the form.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
